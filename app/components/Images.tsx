@@ -6,7 +6,7 @@ import Fourthiamge from "@/public/fourth.png";
 
 const Images = () => {
   return (
-    <div className="py-[89px] ">
+    <div className="py-[89px]  ml-[154px]">
       <div
         className=" rounded-full w-[902px] h-[902px] shrink-0 ml-[100px] flex justify-center items-center relative "
         style={{
